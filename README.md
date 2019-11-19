@@ -1,1 +1,2 @@
-[![Build Status](https://travis-ci.org/ChronTan/CalcOfWallpaper.svg?branch=master)](https://travis-ci.org/ChronTan/CalcOfWallpaper)
+[![Build Status](https://travis-ci.org/ChronTan/CalcOfWallpaper.svg?branch=master)](https://travis-ci.org/ChronTan/CalcOfWallpaper) 
+[![codecov](https://codecov.io/gh/ChronTan/CalcOfWallpaper/branch/master/graph/badge.svg)](https://codecov.io/gh/ChronTan/CalcOfWallpaper)
