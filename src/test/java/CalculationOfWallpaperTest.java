@@ -5,10 +5,10 @@ import static org.junit.jupiter.api.Assertions.*;
 class CalculationOfWallpaperTest {
 
     @Test
-    void countR() {
+    void countRolls() {
 
         CalculationOfWallpaper calculationOfWallpaper=new CalculationOfWallpaper();
-        double result=calculationOfWallpaper.countR(5.0,7.0,1.0,10.0,4.0);
+        double result=calculationOfWallpaper.countRolls(5.0,7.0,1.0,10.0,4.0);
         assertEquals(12,result);
     }
 }
